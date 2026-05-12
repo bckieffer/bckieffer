@@ -1,16 +1,31 @@
-## Hi there 👋
+# Brian Kieffer
 
-<!--
-**bckieffer/bckieffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-stack product engineer moving into AI engineering.
 
-Here are some ideas to get you started:
+I've spent the last several years building and running production systems either solo, or as a team lead. API design, multi-tenant SaaS products, async pipelines, Terraform, Containerization, the whole stack. Now I'm applying that infrastructure background to LLM systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm less interested in prompt magic and more interested in the engineering that makes AI applications actually work at scale: retrieval, evals, structured outputs, observability, and cost control.
+
+---
+
+### What I'm building
+
+Working through a structured curriculum covering LLM APIs, embeddings, RAG, evals, and agent systems. Each topic ships as a production-shaped project instead of a tutorial clone.
+
+---
+
+### Background
+
+I’ve spent most of my career as the sole or lead engineer on production systems, owning the whole stack from data model to deployment. That end-to-end ownership matters in AI engineering, where most of the hard problems turn out to be retrieval, latency, and data quality, not the model itself.
+
+Strong in: PHP/Laravel, TypeScript/Node.js, MariaDB/Mysql, AWS (Lambda, ECS,
+EventBridge, S3, CloudFront), Terraform, Docker, CI/CD.
+
+---
+
+### Open to
+
+Backend and AI engineering roles. Remote preferred, Colorado-based.
+
+- brian@kieffer.co
+- [LinkedIn](https://www.linkedin.com/in/brian-kieffer/)
