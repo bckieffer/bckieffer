@@ -29,3 +29,4 @@ Backend and AI engineering roles. Remote preferred, Colorado-based. Available ea
 
 - brian@kieffer.co
 - [LinkedIn](https://www.linkedin.com/in/brian-kieffer/)
+- [Blog](https://biasedsignal.com)
