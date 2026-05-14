@@ -25,7 +25,7 @@ EventBridge, S3, CloudFront), Terraform, Docker, CI/CD.
 
 ### Open to
 
-Backend and AI engineering roles. Remote preferred, Colorado-based.
+Backend and AI engineering roles. Remote preferred, Colorado-based. Available early 2027.
 
 - brian@kieffer.co
 - [LinkedIn](https://www.linkedin.com/in/brian-kieffer/)
