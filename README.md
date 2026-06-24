@@ -2,7 +2,7 @@
 
 ### Full-stack product engineer moving into AI engineering.
 
-I've spent the last several years building and running production systems either solo, or as a team lead. API design, multi-tenant SaaS products, async pipelines, Terraform, Containerization, the whole stack. Now I'm applying that infrastructure background to LLM systems.
+I've spent the last several years building and running production systems either solo, or as a team lead. The full stack including API design, multi-tenant SaaS products, async pipelines, infrastructure as code, and Containerization. Now I'm applying that infrastructure background to LLM systems.
 
 Interested in the engineering that makes AI applications production-ready and scalable: retrieval, evals, structured outputs, observability, and cost control.
 
@@ -10,8 +10,7 @@ Interested in the engineering that makes AI applications production-ready and sc
 
 ### What I'm building
 
-Working through a structured curriculum covering LLM APIs, embeddings, RAG, evals, and agent systems. Each topic ships as a production-shaped project instead of a tutorial clone.
-
+Working through a structured curriculum covering LLM APIs, context engineering, evals, and agent systems. 
 
 
 ### Open to
