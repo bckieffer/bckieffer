@@ -18,5 +18,5 @@ Working through a structured curriculum covering LLM APIs, context engineering, 
 Backend and AI engineering roles. Remote preferred, Colorado-based. Available early 2027.
 
 - brian@kieffer.co
-- [LinkedIn](https://www.linkedin.com/in/brian-kieffer/)
+- [LinkedIn](https://www.linkedin.com/in/bckieffer)
 - [Blog](https://biasedsignal.com)
